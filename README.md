@@ -1,2 +1,27 @@
 # Portfolio
 This is Svetoslav Pandeliev's documentation portfolio
+# The following are the main principles of technical writing
+![1548052757](https://user-images.githubusercontent.com/46915717/51517099-5e389a80-1e22-11e9-87d2-c6651a06789f.jpg)
+
+Principle #1: Decide whom are your writing for!
+Principle #2: Decide on the information needs of your user
+
+Principle #3: Decide on the way you are going to address your user - which S&Gs to apply
+
+Principle #4: Decide on the deliverable to create
+
+Principle #5: Decide on the tool you will use to create your content
+
+Principle #6: Decide on the structure of your content
+
+Principle #7: Decide on the information channel you are going to use
+
+Principle #8: Write the docu
+
+Principle #9: Use images and videos as appropriate
+
+Principle #10: Publish your first version
+
+Principle #11: Collect input and improve the content
+
+Principle #12: Repeat
