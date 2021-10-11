@@ -2,7 +2,7 @@
 This is Svetoslav Pandeliev's documentation portfolio
 
 <aside class="mdx-author" markdown>
-![@lavipande][@slavipande avatar]
+![@slavipande][@slavipande avatar]
 
 <span>__Svetoslav Pandeliev__ · @slavipande</span>
 <span>
