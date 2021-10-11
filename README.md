@@ -1,5 +1,19 @@
 # Portfolio
 This is Svetoslav Pandeliev's documentation portfolio
+
+<aside class="mdx-author" markdown>
+![@lavipande][@slavipande avatar]
+
+<span>__Svetoslav Pandeliev__ · @slavipande</span>
+<span>
+:octicons-calendar-24: October 11, 2021 ·
+:octicons-clock-24: 3 min read ·
+</span>
+</aside>
+
+  [@slavipande avatar]: https://avatars.githubusercontent.com/u/46915717
+
+
 # The following are the main principles of technical writing
 ![1548052757](https://user-images.githubusercontent.com/46915717/51517099-5e389a80-1e22-11e9-87d2-c6651a06789f.jpg)
 
