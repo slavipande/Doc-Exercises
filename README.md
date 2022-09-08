@@ -1,5 +1,5 @@
-# Portfolio
-This is Svetoslav Pandeliev's documentation portfolio
+# Doc Exercises
+This is Svetoslav Pandeliev's documentation tryouts
 
 <aside class="mdx-author" markdown>
 ![@slavipande][@slavipande avatar]
