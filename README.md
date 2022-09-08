@@ -18,6 +18,7 @@ This is Svetoslav Pandeliev's documentation tryouts
 ![1548052757](https://user-images.githubusercontent.com/46915717/51517099-5e389a80-1e22-11e9-87d2-c6651a06789f.jpg)
 
 Principle #1: Decide whom are your writing for!
+
 Principle #2: Decide on the information needs of your user
 
 Principle #3: Decide on the way you are going to address your user - which S&Gs to apply
